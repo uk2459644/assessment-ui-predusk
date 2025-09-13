@@ -1,4 +1,3 @@
----
 
 # React UI Assessment
 
@@ -33,8 +32,6 @@
 * **Model & Template Selection** (from Playground & Hugging Face).
 * **Parameter Adjustments** (sliders for temperature & tokens, inspired by Playground).
 * **Theme Toggle (Light/Dark)** (common across all platforms).
-
----
 
 ## 2. 🎨 Design
 
@@ -127,8 +124,6 @@ src/
 ![Chat UI](assets/final-ui.png)
 * **Storybook Components**:
  ![Storybook](assets/storybook.png)
-
-*(Replace with actual screenshots in `/assets`)*
 
 ---
 

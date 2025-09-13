@@ -1,0 +1,6 @@
+[
+  { "id": "gpt4",  "name": "GPT-4",  "description": "High-quality large model" },
+  { "id": "gpt35", "name": "GPT-3.5","description": "Fast & cost-effective" },
+  { "id": "claude","name": "Claude", "description": "Anthropic Claude" },
+  { "id": "llama2","name": "Llama 2","description": "Open weights LLM" }
+]

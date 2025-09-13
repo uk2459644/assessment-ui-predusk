@@ -1,0 +1,17 @@
+[
+  {
+    "id": "blog_idea",
+    "name": "Blog Idea",
+    "content": "Write 10 blog ideas about {{topic}} focusing on audience and SEO."
+  },
+  {
+    "id": "code_review",
+    "name": "Code Review",
+    "content": "Please review this code and provide improvements and potential bugs: {{code}}"
+  },
+  {
+    "id": "summarize",
+    "name": "Summarize",
+    "content": "Summarize the following text into 5 concise bullet points: {{text}}"
+  }
+]

@@ -127,6 +127,10 @@ src/
 
 ---
 
+## 🚀 Hosted Demo
+
+👉 [Live Assessment UI on Vercel](https://vercel.com/uk2459644s-projects/assessment-ui-predusk)
+
 ## 🚀 How to Run
 
 ```bash
